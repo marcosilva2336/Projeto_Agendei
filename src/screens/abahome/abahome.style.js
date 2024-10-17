@@ -4,14 +4,14 @@ export const styles = {
     container: {
         backgroundColor: COLORS.white,
         flex: 1,
-        padding: "3%",
+        padding: "2%",
         justifyContent: 'space-between',
     },
 
     text: {
         fontSize: FONT_SIZE.md,
         color: COLORS.gray1,
-        marginTop: 35,
+        marginTop: 10,
         marginLeft: 15,
     }
 }
