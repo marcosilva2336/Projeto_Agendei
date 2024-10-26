@@ -4,8 +4,7 @@ export const styles = {
     appointment: {
         flex: 1,
         backgroundColor: COLORS.white,
-        padding: 14,
-        gap: 10,
+        padding: 12,
         borderWidth: 1,
         borderColor: COLORS.gray4
     },

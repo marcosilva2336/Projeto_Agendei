@@ -5,7 +5,7 @@ export const styles = {
         flex: 1,
         backgroundColor: COLORS.white,
         flexDirection: "row",
-        padding: 15,
+        padding: 12,
         borderWidth: 1,
         borderColor: COLORS.gray4
     },
@@ -22,7 +22,6 @@ export const styles = {
     },
     price: {
         fontSize: FONT_SIZE.sm,
-        fontWeight: "bold",
         color: COLORS.blue,
         marginTop: 3
     }

@@ -9,7 +9,7 @@ export const styles = {
         backgroundColor: COLORS.blue,
         justifyContent: "center",
         alignItems: "center",
-        paddingTop: 30,
+        paddingTop: 10,
         paddingBottom: 25
     },
     name: {

@@ -4,7 +4,7 @@ export const styles = {
     container: {
         flex: 1,
         backgroundColor: COLORS.white,
-        paddingTop: 20
+        paddingTop: 12
     },
     item: {
         borderWidth: 1,
